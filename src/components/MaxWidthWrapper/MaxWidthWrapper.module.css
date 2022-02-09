@@ -3,5 +3,9 @@
   padding-left: 32px;
   padding-right: 32px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; 
+}
+
+.maxWidthWrapper header {
+  max-width: 65%;
 }
